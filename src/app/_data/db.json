@@ -1,0 +1,30 @@
+{
+  "contacts": [
+    {
+      "name": "John Update",
+      "email": "john@gmail.com",
+      "userId": "1",
+      "id": "1"
+    },
+    {
+      "id": "d422",
+      "name": "testUser",
+      "email": "test@gmail.com",
+      "userId": "1"
+    }
+  ],
+  "users": [
+    {
+      "id": "1",
+      "username": "user1",
+      "email": "user1@gmail.com",
+      "password": "12345"
+    },
+    {
+      "id": "2",
+      "username": "user2",
+      "email": "user2@gmail.com",
+      "password": "123456"
+    }
+  ]
+}
